@@ -1,0 +1,15 @@
+C:\Users\Roma\Desktop\Zadanie2Library\Zadanie2Library\bin\Debug\net6.0\Zadanie2Library.exe
+C:\Users\Roma\Desktop\Zadanie2Library\Zadanie2Library\bin\Debug\net6.0\Zadanie2Library.deps.json
+C:\Users\Roma\Desktop\Zadanie2Library\Zadanie2Library\bin\Debug\net6.0\Zadanie2Library.runtimeconfig.json
+C:\Users\Roma\Desktop\Zadanie2Library\Zadanie2Library\bin\Debug\net6.0\Zadanie2Library.dll
+C:\Users\Roma\Desktop\Zadanie2Library\Zadanie2Library\bin\Debug\net6.0\Zadanie2Library.pdb
+C:\Users\Roma\Desktop\Zadanie2Library\Zadanie2Library\obj\Debug\net6.0\Zadanie2Library.csproj.AssemblyReference.cache
+C:\Users\Roma\Desktop\Zadanie2Library\Zadanie2Library\obj\Debug\net6.0\Zadanie2Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roma\Desktop\Zadanie2Library\Zadanie2Library\obj\Debug\net6.0\Zadanie2Library.AssemblyInfoInputs.cache
+C:\Users\Roma\Desktop\Zadanie2Library\Zadanie2Library\obj\Debug\net6.0\Zadanie2Library.AssemblyInfo.cs
+C:\Users\Roma\Desktop\Zadanie2Library\Zadanie2Library\obj\Debug\net6.0\Zadanie2Library.csproj.CoreCompileInputs.cache
+C:\Users\Roma\Desktop\Zadanie2Library\Zadanie2Library\obj\Debug\net6.0\Zadanie2Library.dll
+C:\Users\Roma\Desktop\Zadanie2Library\Zadanie2Library\obj\Debug\net6.0\refint\Zadanie2Library.dll
+C:\Users\Roma\Desktop\Zadanie2Library\Zadanie2Library\obj\Debug\net6.0\Zadanie2Library.pdb
+C:\Users\Roma\Desktop\Zadanie2Library\Zadanie2Library\obj\Debug\net6.0\Zadanie2Library.genruntimeconfig.cache
+C:\Users\Roma\Desktop\Zadanie2Library\Zadanie2Library\obj\Debug\net6.0\ref\Zadanie2Library.dll

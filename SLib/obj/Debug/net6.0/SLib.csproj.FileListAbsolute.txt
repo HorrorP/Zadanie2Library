@@ -1,0 +1,12 @@
+C:\Users\Roma\Desktop\Zadanie2Library\SLib\bin\Debug\net6.0\SLib.deps.json
+C:\Users\Roma\Desktop\Zadanie2Library\SLib\bin\Debug\net6.0\SLib.dll
+C:\Users\Roma\Desktop\Zadanie2Library\SLib\bin\Debug\net6.0\SLib.pdb
+C:\Users\Roma\Desktop\Zadanie2Library\SLib\obj\Debug\net6.0\SLib.csproj.AssemblyReference.cache
+C:\Users\Roma\Desktop\Zadanie2Library\SLib\obj\Debug\net6.0\SLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roma\Desktop\Zadanie2Library\SLib\obj\Debug\net6.0\SLib.AssemblyInfoInputs.cache
+C:\Users\Roma\Desktop\Zadanie2Library\SLib\obj\Debug\net6.0\SLib.AssemblyInfo.cs
+C:\Users\Roma\Desktop\Zadanie2Library\SLib\obj\Debug\net6.0\SLib.csproj.CoreCompileInputs.cache
+C:\Users\Roma\Desktop\Zadanie2Library\SLib\obj\Debug\net6.0\SLib.dll
+C:\Users\Roma\Desktop\Zadanie2Library\SLib\obj\Debug\net6.0\refint\SLib.dll
+C:\Users\Roma\Desktop\Zadanie2Library\SLib\obj\Debug\net6.0\SLib.pdb
+C:\Users\Roma\Desktop\Zadanie2Library\SLib\obj\Debug\net6.0\ref\SLib.dll
